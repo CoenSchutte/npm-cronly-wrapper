@@ -1,6 +1,6 @@
 # A Cronly API wrapper
 
-![npm (scoped)](https://img.shields.io/npm/v/@coenschutte/npm-cronly-wrapper?color=blue)
+![npm (scoped)](https://img.shields.io/npm/v/@coenschutte/npm-cronly-wrapper)
 
 This is a basic API wrapper for Cronly
 
