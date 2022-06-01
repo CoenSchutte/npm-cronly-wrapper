@@ -1,6 +1,6 @@
 {
   "name": "@coenschutte/npm-cronly-wrapper",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A wrapper for the Cronly API",
   "license": "MIT",
   "repository": "coenschutte/npm-cronly-wrapper",
