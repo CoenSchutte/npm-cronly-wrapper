@@ -1,6 +1,4 @@
 const axios = require("axios").default;
-var sslRootCAs = require('ssl-root-cas')
-sslRootCAs.inject()
 
 function Cronly(apikey) {
   this.apikey = apikey;
